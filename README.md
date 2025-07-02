@@ -32,8 +32,9 @@ Veri Önişleme ve Analizi aşamasında veri setinin okunması, veri setindeki �
 
 Korelasyon katsayısı, iki değişken arasındaki ilişkinin yönünü ve gücünü/kuvvetini ifade eder. Katsayı değeri -1 ile +1 arasında bir değer almaktadır. Korelasyon katsayısı 1’e veya -1’e yaklaştıkça, doğrusal ilişkinin kuvveti artarken, uzaklaştıkça ilişkinin kuvveti azalır. Korelasyon matrisi incelendiğinde bağımsız değişkenler arasında kuvvetli bir ilişki olmadığı gözlemlenmiştir. 
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/37ed21c9-cc1c-4906-a727-98c9c7b34cf1" alt="Image 1" width="600">
+  <img src="https://github.com/user-attachments/assets/d1f8b5f8-e996-4b69-9449-bc507f6ae604" alt="Image 1" width="600">
   <br>
   <b>Korelasyon Analizi</b>
 </p>
@@ -53,15 +54,16 @@ Proje kapsamında K-Nearest Neighbors, Deep Learning Model ve eXtreme Gradient B
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f28b4e8a-cb04-4684-9954-03287f5770c6" alt="Image 2" width="1000">
+  <img src="https://github.com/user-attachments/assets/4170e9ef-e56e-419b-ab2d-03862776a5e6" alt="Image 2" width="1000">
   <br>
   <b>Confusion Matrix</b>
 </p>
 
 Ayrıca seçilen XGBoost modeli üzerinde değişken önem analizi yapılarak modelin karar verme süreçlerinde değişkenlerin karar verme sürecine ortalama olarak ne oranda bilgi kazancı yaptığı hesaplanmıştır.
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d6c00f70-9ac6-42c8-8177-5263ec311a85" alt="Image 3" width="600">
+  <img src="https://github.com/user-attachments/assets/98d797da-ee40-4b63-8ecd-1dbe318937f3" alt="Image 3" width="600">
   <br>
   <b>Features Importance</b>
 </p>
